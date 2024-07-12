@@ -1,0 +1,6 @@
+metadata_version: 1
+name: TReND Template
+description: Template repository for creating a Code Ocean capsule for the Allen Brain Observatory Visual
+  Coding 2-photon and Neuropixels dataset
+authors:
+- name: SWDB
